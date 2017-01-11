@@ -1,4 +1,9 @@
 
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
 
 body{
 	background: url("images/home_page.jpg");
@@ -62,5 +67,18 @@ hr{
 }
 nav{
 	text-align: center;
+	background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
 
+ }
+ footer{
+ 	background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+ }
+ div{
+ 	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
  }
