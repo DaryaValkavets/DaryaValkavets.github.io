@@ -5,6 +5,8 @@ body{
 	background-size: cover;	
 	text-align: center;
 }
+
+
 img{
 	margin-top: 5.5em;
 	
@@ -32,6 +34,7 @@ img{
 	margin-top: 4.8em;
 	}
 
+
 p{
 	color: #000000;
 	font-family: 'Alex Brush', cursive;
@@ -41,6 +44,8 @@ p{
 	font-style: italic;
 	margin-top: 2em;
 	}
+
+
 .bar {
 text-align: center;
 margin-top: 3em;
@@ -53,7 +58,9 @@ font-style: normal;
 }
 hr{
 	margin-top: 16em;
-	}
-footer{ 
+
+}
+nav{
 	text-align: right;
+
  }
